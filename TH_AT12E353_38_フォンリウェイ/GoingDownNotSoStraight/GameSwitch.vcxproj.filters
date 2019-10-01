@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="controller.cpp">
+      <Filter>Sysyem\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsHelper.Nx.cpp">
+      <Filter>Sysyem\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsHelper.Windows.cpp">
+      <Filter>Sysyem\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Sysyem\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>Sysyem\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="system.cpp">
+      <Filter>Sysyem\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.cpp">
+      <Filter>Sysyem\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="AABB.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Fade.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMap.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MapBank.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MapObject.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseMenu.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="StageManeger.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Game\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="SenceManeger.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Logo.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="TutorManager.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="sound.cpp">
+      <Filter>Sysyem\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="controller.h">
+      <Filter>Sysyem\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsHelper.h">
+      <Filter>Sysyem\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Sysyem\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>Sysyem\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="system.h">
+      <Filter>Sysyem\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>Sysyem\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="AABB.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Fade.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMap.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MapBank.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MapObject.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseMenu.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="StageManeger.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Game\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="SenceManeger.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Logo.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="TutorManeger.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>Sysyem\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Sysyem">
+      <UniqueIdentifier>{27f8688b-eafe-4ad3-be78-4a0f5893b732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sysyem\Source">
+      <UniqueIdentifier>{b46d5e1d-1d86-4ee7-95fb-aadba383352f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{c059fe0f-2186-4fc9-9ebc-aa176b988b61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Source">
+      <UniqueIdentifier>{5463e29e-91da-4df2-8de0-024dad102504}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Header">
+      <UniqueIdentifier>{95835bac-1e9d-4143-9d1f-d9b2e2904a5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sysyem\Header">
+      <UniqueIdentifier>{23a3038a-45b3-4bbb-a769-bdbaf57b625c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other">
+      <UniqueIdentifier>{4695487c-8e2e-405c-90d7-77628b2ba4e1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソースファイル/ヘッダーファイル">
+      <UniqueIdentifier>{d199c9d9-935f-4698-88ba-e8172039b307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル/ヘッダーファイル\システム">
+      <UniqueIdentifier>{bde40ec2-5c3e-4694-8718-7ec16fb38d72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル/ヘッダーファイル\システム\メイン機能">
+      <UniqueIdentifier>{4b4a1e21-6afc-48f1-b5f3-5d5a78f34774}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DirectX.cpp">
+      <Filter>ソースファイル/ヘッダーファイル\システム\メイン機能</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>ソースファイル/ヘッダーファイル\システム</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DirectX.h">
+      <Filter>ソースファイル/ヘッダーファイル\システム\メイン機能</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

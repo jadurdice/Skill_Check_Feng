@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\jadur\source\repos\project1\debugprint.h(7): warning C4100: 'pFormat': 引数は関数の本体部で 1 度も参照されません。
+c:\users\jadur\source\repos\project1\debugprint.h(18): warning C4100: 'pFormat': 引数は関数の本体部で 1 度も参照されません。
+  コード生成しています。
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Project1.vcxproj -> C:\Users\jadur\source\repos\Project1\x64\Release\Project1.exe

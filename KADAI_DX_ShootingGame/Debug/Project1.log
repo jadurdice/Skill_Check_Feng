@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (Project1.vcxproj, WindowsAPI Template.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  Player.cpp
+c:\users\jadur\source\repos\kadai_dx_shootinggame\player.cpp(295): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\jadur\source\repos\kadai_dx_shootinggame\player.cpp(393): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\jadur\source\repos\kadai_dx_shootinggame\player.cpp(410): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\jadur\source\repos\kadai_dx_shootinggame\player.cpp(423): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\jadur\source\repos\kadai_dx_shootinggame\player.cpp(454): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Project1.vcxproj -> C:\Users\jadur\source\repos\KADAI_DX_ShootingGame\Debug\ShootingGame.exe

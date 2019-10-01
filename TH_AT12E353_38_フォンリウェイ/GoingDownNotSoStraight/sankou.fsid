@@ -1,0 +1,39 @@
+﻿// SoundIDs
+static const unsigned int B_TUTOR = 0x01000000;
+static const unsigned int B_GAMEOVER = 0x01000001;
+static const unsigned int B_TITLE = 0x01000002;
+static const unsigned int B_PLAY = 0x01000003;
+static const unsigned int S_JUMP = 0x01000004;
+static const unsigned int S_CANCEL = 0x01000005;
+static const unsigned int S_CLICK = 0x01000006;
+static const unsigned int S_CLOSE = 0x01000007;
+static const unsigned int S_DAMAGE = 0x01000008;
+static const unsigned int S_DECIDE_ = 0x01000009;
+static const unsigned int S_ENEMY = 0x0100000A;
+static const unsigned int S_LADDER = 0x0100000B;
+static const unsigned int S_LAND = 0x0100000C;
+static const unsigned int S_OPEN = 0x0100000D;
+static const unsigned int S_PUTBACK = 0x0100000E;
+static const unsigned int S_STRECH = 0x0100000F;
+static const unsigned int S_TOUCHCELL = 0x01000010;
+static const unsigned int S_WRONG = 0x01000011;
+static const unsigned int S_GETMAP = 0x01000012;
+static const unsigned int S_OPENBOX = 0x01000013;
+static const unsigned int S_SWAP = 0x01000014;
+
+// SoundGroupIDs
+// WaveSoundSetIDs
+static const unsigned int SE = 0x02000000;
+// SequenceSoundSetIDs
+
+// BankIDs
+
+// PlayerIDs
+static const unsigned int UI_SE_PLAYER = 0x04000000;
+static const unsigned int BGM_PLAYER = 0x04000001;
+static const unsigned int PLAYER_SE_PLAYER = 0x04000002;
+static const unsigned int AROUND_SE_PLAYER = 0x04000003;
+
+// WaveArchiveIDs
+
+// GroupIDs
